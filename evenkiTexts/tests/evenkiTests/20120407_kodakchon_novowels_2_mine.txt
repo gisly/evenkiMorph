@@ -1,0 +1,412 @@
+tarit	tā_сдёрнуть+V+Psim+Sg+Instr
+tarit	tā_сдёрнуть+V+Psim+Sg+Nom+Ps1Pl(INCL)
+tarit	tarit_потому+Adv
+tarit	tarit_тогда+Adv
+tarit	tārit_поэтому+Adv
+
+jema	+?
+
+da	dā_близость+N+Sg+Nom
+da	dā_близкий+Adj+Sg+Nom
+
+bejngewa	+?
+
+d'ulgideliwi	d'ulgidē_передняя_сторона+N+Sg+Prol+Rfl
+
+ene	e_воздержаться+V+Cvsim+Sg
+ene	e_таить+V+Cvsim+Sg
+
+ngenewkene	ngene_длиться+V+Caus+Nfut+3Pl
+ngenewkene	ngene_длиться+V+Caus+Pneg
+ngenewkene	ngene_двигаться+V+Caus+Nfut+3Pl
+ngenewkene	ngene_двигаться+V+Caus+Pneg
+ngenewkene	ngene_катить+V+Caus+Nfut+3Pl
+ngenewkene	ngene_катить+V+Caus+Pneg
+ngenewkene	ngene_пролетать+V+Caus+Nfut+3Pl
+ngenewkene	ngene_пролетать+V+Caus+Pneg
+ngenewkene	ngene_продолжаться+V+Caus+Nfut+3Pl
+ngenewkene	ngene_продолжаться+V+Caus+Pneg
+ngenewkene	ngene_передвигаться+V+Caus+Nfut+3Pl
+ngenewkene	ngene_передвигаться+V+Caus+Pneg
+ngenewkene	ngene_тянуться+V+Caus+Nfut+3Pl
+ngenewkene	ngene_тянуться+V+Caus+Pneg
+ngenewkene	ngene_идти+V+Caus+Nfut+3Pl
+ngenewkene	ngene_идти+V+Caus+Pneg
+ngenewkene	ngene_ехать+V+Caus+Nfut+3Pl
+ngenewkene	ngene_ехать+V+Caus+Pneg
+ngenewkene	ngene_шествовать+V+Caus+Nfut+3Pl
+ngenewkene	ngene_шествовать+V+Caus+Pneg
+ngenewkene	ngenewkēn_завод+N+Sg+Accin
+ngenewkene	ngenewkēn_завести+V+Nfut+3Pl
+ngenewkene	ngenewkēn_завести+V+Pneg
+ngenewkene	ngenewkēn_запустить+V+Nfut+3Pl
+ngenewkene	ngenewkēn_запустить+V+Pneg
+
+wawki	wā_ушибить+V+Phab+Sg+Nom
+wawki	wā_умертвить+V+Phab+Sg+Nom
+wawki	wā_убить+V+Phab+Sg+Nom
+wawki	wā_набить+V+Phab+Sg+Nom
+wawki	wā_расстрелять+V+Phab+Sg+Nom
+wawki	wā_подстрелить+V+Phab+Sg+Nom
+wawki	wā_пристрелить+V+Phab+Sg+Nom
+wawki	wā_добыть+V+Phab+Sg+Nom
+wawki	wā_застрелить+V+Phab+Sg+Nom
+wawki	wā_загубить+V+Phab+Sg+Nom
+
+bichen	bi_водиться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_водиться+V+Pst+3Sg
+bichen	bi_выжить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_выжить+V+Pst+3Sg
+bichen	bi_попадаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_попадаться+V+Pst+3Sg
+bichen	bi_пробить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_пробить+V+Pst+3Sg
+bichen	bi_прожить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_прожить+V+Pst+3Sg
+bichen	bi_быть+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_быть+V+Pst+3Sg
+bichen	bi_иметься+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_иметься+V+Pst+3Sg
+bichen	bi_состояться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_состояться+V+Pst+3Sg
+bichen	bi_случаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_случаться+V+Pst+3Sg
+bichen	biche_бывший+Adj+Sg+Nom+Ps3Sg
+
+ngenu	+?
+
+degiwe	degi_птица+N+Sg+Acc
+
+ugideliwi	ugīdē_верхняя_сторона+N+Sg+Prol+Rfl
+
+ehin	ehin_черенок+N+Sg+Nom
+
+degiwkene	deg_подлететь+V+Caus+Nfut+3Pl
+degiwkene	deg_подлететь+V+Caus+Pneg
+degiwkene	deg_пролететь+V+Caus+Nfut+3Pl
+degiwkene	deg_пролететь+V+Caus+Pneg
+degiwkene	deg_прилететь+V+Caus+Nfut+3Pl
+degiwkene	deg_прилететь+V+Caus+Pneg
+degiwkene	deg_перелететь+V+Caus+Nfut+3Pl
+degiwkene	deg_перелететь+V+Caus+Pneg
+degiwkene	deg_отлететь+V+Caus+Nfut+3Pl
+degiwkene	deg_отлететь+V+Caus+Pneg
+degiwkene	deg_влететь+V+Caus+Nfut+3Pl
+degiwkene	deg_влететь+V+Caus+Pneg
+degiwkene	deg_улететь+V+Caus+Nfut+3Pl
+degiwkene	deg_улететь+V+Caus+Pneg
+degiwkene	deg_слететь+V+Caus+Nfut+3Pl
+degiwkene	deg_слететь+V+Caus+Pneg
+degiwkene	deg_долететь+V+Caus+Nfut+3Pl
+degiwkene	deg_долететь+V+Caus+Pneg
+degiwkene	deg_залететь+V+Caus+Nfut+3Pl
+degiwkene	deg_залететь+V+Caus+Pneg
+
+ilan	ilan_три+Num
+
+tamnaksal	tamna_пылить+V+Cvant+Pl
+tamnaksal	tamna_стлаться+V+Cvant+Pl
+tamnaksal	tamnaksa_туман+N+Pl+Nom
+tamnaksal	tamnaksa_испарение+N+Pl+Nom
+
+ugidelin	ugīdē_верхняя_сторона+N+Pl+Nom+Ps3Sg
+ugidelin	ugīdē_верхняя_сторона+N+Sg+Prol+Ps3Sg
+
+degd'eriwe	deg_подлететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_пролететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_прилететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_перелететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_отлететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_влететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_улететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_слететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_долететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	deg_залететь+V+Ipfv+Psim+Sg+Acc
+degd'eriwe	degd'erī_летучий+Adj+Sg+Acc
+
+taduk	tāduk_оттуда+Adv
+taduk	tāduk_потом+Adv
+taduk	tāduk_затем+Adv
+
+tar	+?
+
+beje	be_койка+N+Sg+Accin
+beje	be_кровать+N+Sg+Accin
+beje	be_пробка+N+Sg+Accin
+beje	beje_корпус+N+Sg+Nom
+beje	beje_муж+N+Sg+Nom
+beje	beje_мужчина+N+Sg+Nom
+beje	beje_плоть+N+Sg+Nom
+beje	beje_тело+N+Sg+Nom
+beje	beje_самец+N+Sg+Nom
+beje	beje_человек+N+Sg+Nom
+
+tadu	tadū_там+Adv
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+ullewe	ulle_мясо+N+Sg+Acc
+ullewe	ulle_говядина+N+Sg+Acc
+
+d'epne	d'ep_поесть+V+Cvsim+Sg
+d'epne	d'ep_съесть+V+Cvsim+Sg
+d'epne	d'epne_объедки+N+Sg+Nom
+
+nannawan	nanna_шкура+N+Sg+Acc+Ps3Sg
+nannawan	nanna_корка+N+Sg+Acc+Ps3Sg
+nannawan	nanna_кожа+N+Sg+Acc+Ps3Sg
+
+tetkejewi	tetkē_одежда+N+Sg+Accin+Rfl
+
+hunad'in	hū_распилить+V+Ppf+Sg+Instr+Ps3Sg
+hunad'in	hū_перепилить+V+Ppf+Sg+Instr+Ps3Sg
+hunad'in	hunat_сестра+N+Sg+Nom+Ps3Sg
+hunad'in	hunāt_барышня+N+Sg+Nom+Ps3Sg
+hunad'in	hunāt_девушка+N+Sg+Nom+Ps3Sg
+
+owki	ō_застроить+V+Phab+Sg+Nom
+owki	ō_настать+V+Phab+Sg+Nom
+owki	ō_наделать+V+Phab+Sg+Nom
+owki	ō_оказаться+V+Phab+Sg+Nom
+owki	ō_определить+V+Phab+Sg+Nom
+owki	ō_образовать+V+Phab+Sg+Nom
+owki	ō_образоваться+V+Phab+Sg+Nom
+owki	ō_осуществить+V+Phab+Sg+Nom
+owki	ō_основать+V+Phab+Sg+Nom
+owki	ō_очутиться+V+Phab+Sg+Nom
+owki	ō_разработать+V+Phab+Sg+Nom
+owki	ō_решить+V+Phab+Sg+Nom
+owki	ō_водрузить+V+Phab+Sg+Nom
+owki	ō_возникнуть+V+Phab+Sg+Nom
+owki	ō_воздвигнуть+V+Phab+Sg+Nom
+owki	ō_ввести+V+Phab+Sg+Nom
+owki	ō_выработать+V+Phab+Sg+Nom
+owki	ō_выйти+V+Phab+Sg+Nom
+owki	ō_выстроить+V+Phab+Sg+Nom
+owki	ō_выделывать+V+Phab+Sg+Nom
+owki	ō_получиться+V+Phab+Sg+Nom
+owki	ō_появиться+V+Phab+Sg+Nom
+owki	ō_поступить+V+Phab+Sg+Nom
+owki	ō_поставить+V+Phab+Sg+Nom
+owki	ō_построить+V+Phab+Sg+Nom
+owki	ō_провести+V+Phab+Sg+Nom
+owki	ō_происходить+V+Phab+Sg+Nom
+owki	ō_произойти+V+Phab+Sg+Nom
+owki	ō_производить+V+Phab+Sg+Nom
+owki	ō_произвести+V+Phab+Sg+Nom
+owki	ō_проделать+V+Phab+Sg+Nom
+owki	ō_приключиться+V+Phab+Sg+Nom
+owki	ō_причинить+V+Phab+Sg+Nom
+owki	ō_исполнить+V+Phab+Sg+Nom
+owki	ō_исполниться+V+Phab+Sg+Nom
+owki	ō_изготовить+V+Phab+Sg+Nom
+owki	ō_соорудить+V+Phab+Sg+Nom
+owki	ō_совершить+V+Phab+Sg+Nom
+owki	ō_составить+V+Phab+Sg+Nom
+owki	ō_создать+V+Phab+Sg+Nom
+owki	ō_случаться+V+Phab+Sg+Nom
+owki	ō_случиться+V+Phab+Sg+Nom
+owki	ō_смастерить+V+Phab+Sg+Nom
+owki	ō_стать+V+Phab+Sg+Nom
+owki	ō_сделать+V+Phab+Sg+Nom
+owki	ō_сделаться+V+Phab+Sg+Nom
+owki	ō_деваться+V+Phab+Sg+Nom
+owki	ō_деться+V+Phab+Sg+Nom
+owki	ō_установиться+V+Phab+Sg+Nom
+owki	ō_устроить+V+Phab+Sg+Nom
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+tar	+?
+
+akinin	akīn_брат+N+Sg+Nom+Ps3Sg
+
+gegdek	gegdek_всегда+Adv
+gegdek	gegdek_здорово+Adv
+
+emeritikin	+?
+
+teliwki	telī_завялить+V+Phab+Sg+Nom
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+tar	+?
+
+n'ekekse	n'eke_направиться+V+Cvant+Sg
+n'ekekse	n'eke_взяться+V+Cvant+Sg
+n'ekekse	n'eke_попробовать+V+Cvant+Sg
+n'ekekse	n'eke_собраться+V+Cvant+Sg
+n'ekekse	n'eke_сползти+V+Cvant+Sg
+n'ekekse	n'eke_затеять+V+Cvant+Sg
+n'ekekse	n'eke_задумать+V+Cvant+Sg
+
+akinin	akīn_брат+N+Sg+Nom+Ps3Sg
+
+gerbin	gerb_герб+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_наименование+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_название+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_прозвище+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_имя+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_заглавие+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_звание+N+Sg+Nom+Ps3Sg
+
+kodakchen	+?
+
+mata	mata_богатырь+N+Sg+Nom
+mata	mata_сосед+N+Sg+Nom
+mata	mata_гость+N+Sg+Nom
+mata	mata_земляк+N+Sg+Nom
+
+gerbin	gerb_герб+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_наименование+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_название+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_прозвище+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_имя+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_заглавие+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_звание+N+Sg+Nom+Ps3Sg
+
+bichen	bi_водиться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_водиться+V+Pst+3Sg
+bichen	bi_выжить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_выжить+V+Pst+3Sg
+bichen	bi_попадаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_попадаться+V+Pst+3Sg
+bichen	bi_пробить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_пробить+V+Pst+3Sg
+bichen	bi_прожить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_прожить+V+Pst+3Sg
+bichen	bi_быть+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_быть+V+Pst+3Sg
+bichen	bi_иметься+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_иметься+V+Pst+3Sg
+bichen	bi_состояться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_состояться+V+Pst+3Sg
+bichen	bi_случаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_случаться+V+Pst+3Sg
+bichen	biche_бывший+Adj+Sg+Nom+Ps3Sg
+
+hunad'in	hū_распилить+V+Ppf+Sg+Instr+Ps3Sg
+hunad'in	hū_перепилить+V+Ppf+Sg+Instr+Ps3Sg
+hunad'in	hunat_сестра+N+Sg+Nom+Ps3Sg
+hunad'in	hunāt_барышня+N+Sg+Nom+Ps3Sg
+hunad'in	hunāt_девушка+N+Sg+Nom+Ps3Sg
+
+gerbin	gerb_герб+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_наименование+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_название+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_прозвище+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_имя+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_заглавие+N+Sg+Nom+Ps3Sg
+gerbin	gerbī_звание+N+Sg+Nom+Ps3Sg
+
+bichen	bi_водиться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_водиться+V+Pst+3Sg
+bichen	bi_выжить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_выжить+V+Pst+3Sg
+bichen	bi_попадаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_попадаться+V+Pst+3Sg
+bichen	bi_пробить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_пробить+V+Pst+3Sg
+bichen	bi_прожить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_прожить+V+Pst+3Sg
+bichen	bi_быть+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_быть+V+Pst+3Sg
+bichen	bi_иметься+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_иметься+V+Pst+3Sg
+bichen	bi_состояться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_состояться+V+Pst+3Sg
+bichen	bi_случаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_случаться+V+Pst+3Sg
+bichen	biche_бывший+Adj+Sg+Nom+Ps3Sg
+
+s'ekak	+?
+
+guneri	gūn_ответить+V+Psim+Sg+Nom
+guneri	gūn_обратиться+V+Psim+Sg+Nom
+guneri	gūn_выразить+V+Psim+Sg+Nom
+guneri	gūn_высказать+V+Psim+Sg+Nom
+guneri	gūn_высказаться+V+Psim+Sg+Nom
+guneri	gūn_проговориться+V+Psim+Sg+Nom
+guneri	gūn_заключить+V+Psim+Sg+Nom
+guneri	gun_возразить+V+Psim+Sg+Nom
+guneri	gun_вывести+V+Psim+Sg+Nom
+guneri	gun_повторить+V+Psim+Sg+Nom
+guneri	gun_сказать+V+Psim+Sg+Nom
+guneri	gun_заметить+V+Psim+Sg+Nom
+guneri	gun_заявить+V+Psim+Sg+Nom
+
+tar	+?
+
+n'ekemi	n'eke_направиться+V+Cvcond+Sg
+n'ekemi	n'eke_взяться+V+Cvcond+Sg
+n'ekemi	n'eke_попробовать+V+Cvcond+Sg
+n'ekemi	n'eke_собраться+V+Cvcond+Sg
+n'ekemi	n'eke_сползти+V+Cvcond+Sg
+n'ekemi	n'eke_затеять+V+Cvcond+Sg
+n'ekemi	n'eke_задумать+V+Cvcond+Sg
+
+nungartin	nungan_он+N+Pl+Nom+Ps3Pl
+
+bejel	beje_корпус+N+Pl+Nom
+bejel	beje_муж+N+Pl+Nom
+bejel	beje_мужчина+N+Pl+Nom
+bejel	beje_плоть+N+Pl+Nom
+bejel	beje_тело+N+Pl+Nom
+bejel	beje_самец+N+Pl+Nom
+bejel	beje_человек+N+Pl+Nom
+bejel	bejel_народ+N+Sg+Nom
+bejel	bejel_среда+N+Sg+Nom
+
+dumajd'achal	+?
+
+bichel	bi_водиться+V+Pant+Pl+Nom
+bichel	bi_выжить+V+Pant+Pl+Nom
+bichel	bi_попадаться+V+Pant+Pl+Nom
+bichel	bi_пробить+V+Pant+Pl+Nom
+bichel	bi_прожить+V+Pant+Pl+Nom
+bichel	bi_быть+V+Pant+Pl+Nom
+bichel	bi_иметься+V+Pant+Pl+Nom
+bichel	bi_состояться+V+Pant+Pl+Nom
+bichel	bi_случаться+V+Pant+Pl+Nom
+bichel	biche_бывший+Adj+Pl+Nom
+
+umun	umūn_один+N+Sg+Nom
+umun	umūn_единица+N+Sg+Nom
+
+siksenidu	siksenī_вечер+N+Sg+Datloc
+
+nekuntikiwi	nēkun_внучка+N+Sg+All+Rfl
+nekuntikiwi	nekūn_внук+N+Sg+All+Rfl
+nekuntikiwi	nekūn_младшая_сестра+N+Sg+All+Rfl
+
+turetche	turē_обругать+V+Dur+Pant+Sg+Nom
+turetche	turē_подпереть+V+Dur+Pant+Sg+Nom
+turetche	turēt_выступить+V+Pant+Sg+Nom
+

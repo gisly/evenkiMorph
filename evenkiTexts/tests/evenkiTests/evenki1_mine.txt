@@ -1,0 +1,224 @@
+umne	umnē_однажды+Adv
+umne	umnē_раз+N+Sg+Nom
+
+horoki	horokī_тетерев+N+Sg+Nom
+
+intilgunen	+?
+
+binel	bi_водиться+V+Cvsim+Pl
+binel	bi_выжить+V+Cvsim+Pl
+binel	bi_попадаться+V+Cvsim+Pl
+binel	bi_пробить+V+Cvsim+Pl
+binel	bi_прожить+V+Cvsim+Pl
+binel	bi_быть+V+Cvsim+Pl
+binel	bi_иметься+V+Cvsim+Pl
+binel	bi_состояться+V+Cvsim+Pl
+binel	bi_случаться+V+Cvsim+Pl
+
+d'argamatchal	+?
+
+huruchel	huru_перемолоть+V+Pant+Pl+Nom
+huruchel	huru_истолочь+V+Pant+Pl+Nom
+huruchel	huru_дробить+V+Pant+Pl+Nom
+huruchel	hurū_унести+V+Pant+Pl+Nom
+
+ekserile	ekse_увести+V+Psim+Pl+Accin
+ekserile	ekse_увести+V+Psim+Sg+Locall
+ekserile	ekse_увезти+V+Psim+Pl+Accin
+ekserile	ekse_увезти+V+Psim+Sg+Locall
+ekserile	ekse_утащить+V+Psim+Pl+Accin
+ekserile	ekse_утащить+V+Psim+Sg+Locall
+ekserile	ekse_одуматься+V+Psim+Pl+Accin
+ekserile	ekse_одуматься+V+Psim+Sg+Locall
+ekserile	ekserī_бог+N+Pl+Accin
+ekserile	ekserī_бог+N+Sg+Locall
+
+ista	+?
+
+ekseriwe	ekse_увести+V+Psim+Sg+Acc
+ekseriwe	ekse_увезти+V+Psim+Sg+Acc
+ekseriwe	ekse_утащить+V+Psim+Sg+Acc
+ekseriwe	ekse_одуматься+V+Psim+Sg+Acc
+ekseriwe	ekserī_бог+N+Sg+Acc
+
+horoki	horokī_тетерев+N+Sg+Nom
+
+gunen	gu_крикнуть+V+Ppf+Sg+Nom+Ps3Sg
+gunen	gu_крикнуть+V+Evid+3Sg
+gunen	gu_возражать+V+Ppf+Sg+Nom+Ps3Sg
+gunen	gu_возражать+V+Evid+3Sg
+gunen	gu_приласкать+V+Ppf+Sg+Nom+Ps3Sg
+gunen	gu_приласкать+V+Evid+3Sg
+gunen	gūn_ответить+V+Nfut+3Sg
+gunen	gūn_обратиться+V+Nfut+3Sg
+gunen	gūn_выразить+V+Nfut+3Sg
+gunen	gūn_высказать+V+Nfut+3Sg
+gunen	gūn_высказаться+V+Nfut+3Sg
+gunen	gūn_проговориться+V+Nfut+3Sg
+gunen	gūn_заключить+V+Nfut+3Sg
+gunen	gun_возразить+V+Nfut+3Sg
+gunen	gun_вывести+V+Nfut+3Sg
+gunen	gun_повторить+V+Nfut+3Sg
+gunen	gun_сказать+V+Nfut+3Sg
+gunen	gun_заметить+V+Nfut+3Sg
+gunen	gun_заявить+V+Nfut+3Sg
+
+intilgun	+?
+
+mine	mi_резать+V+Cvsim+Sg
+
+d'awawki	d'awa_ухватить+V+Phab+Sg+Nom
+d'awawki	d'awa_уловить+V+Phab+Sg+Nom
+d'awawki	d'awa_оккупировать+V+Phab+Sg+Nom
+d'awawki	d'awa_ловить+V+Phab+Sg+Nom
+d'awawki	d'awa_покорить+V+Phab+Sg+Nom
+d'awawki	d'awa_поймать+V+Phab+Sg+Nom
+d'awawki	d'awa_подхватить+V+Phab+Sg+Nom
+d'awawki	d'awa_изловить+V+Phab+Sg+Nom
+d'awawki	d'awa_захватить+V+Phab+Sg+Nom
+d'awawki	d'awa_занять+V+Phab+Sg+Nom
+d'awawki	d'awa_завоевать+V+Phab+Sg+Nom
+
+guche	gu_крикнуть+V+Pant+Sg+Nom
+guche	gu_возражать+V+Pant+Sg+Nom
+guche	gu_приласкать+V+Pant+Sg+Nom
+
+intilgun	+?
+
+bi	bi_я+N+Sg+Nom
+
+jelaha	+?
+
+da	dā_близость+N+Sg+Nom
+da	dā_близкий+Adj+Sg+Nom
+
+echin	+?
+
+bihim	+?
+
+d'awara	d'awa_ухватить+V+Nfut+3Pl
+d'awara	d'awa_ухватить+V+Pneg
+d'awara	d'awa_уловить+V+Nfut+3Pl
+d'awara	d'awa_уловить+V+Pneg
+d'awara	d'awa_оккупировать+V+Nfut+3Pl
+d'awara	d'awa_оккупировать+V+Pneg
+d'awara	d'awa_ловить+V+Nfut+3Pl
+d'awara	d'awa_ловить+V+Pneg
+d'awara	d'awa_покорить+V+Nfut+3Pl
+d'awara	d'awa_покорить+V+Pneg
+d'awara	d'awa_поймать+V+Nfut+3Pl
+d'awara	d'awa_поймать+V+Pneg
+d'awara	d'awa_подхватить+V+Nfut+3Pl
+d'awara	d'awa_подхватить+V+Pneg
+d'awara	d'awa_изловить+V+Nfut+3Pl
+d'awara	d'awa_изловить+V+Pneg
+d'awara	d'awa_захватить+V+Nfut+3Pl
+d'awara	d'awa_захватить+V+Pneg
+d'awara	d'awa_занять+V+Nfut+3Pl
+d'awara	d'awa_занять+V+Pneg
+d'awara	d'awa_завоевать+V+Nfut+3Pl
+d'awara	d'awa_завоевать+V+Pneg
+d'awara	d'awan_покорение+N+Pl+Accin
+d'awara	d'awan_захват+N+Pl+Accin
+d'awara	d'awan_занятие+N+Pl+Accin
+
+horokiwa	+?
+
+horokiwa	+?
+
+d'awawki	d'awa_ухватить+V+Phab+Sg+Nom
+d'awawki	d'awa_уловить+V+Phab+Sg+Nom
+d'awawki	d'awa_оккупировать+V+Phab+Sg+Nom
+d'awawki	d'awa_ловить+V+Phab+Sg+Nom
+d'awawki	d'awa_покорить+V+Phab+Sg+Nom
+d'awawki	d'awa_поймать+V+Phab+Sg+Nom
+d'awawki	d'awa_подхватить+V+Phab+Sg+Nom
+d'awawki	d'awa_изловить+V+Phab+Sg+Nom
+d'awawki	d'awa_захватить+V+Phab+Sg+Nom
+d'awawki	d'awa_занять+V+Phab+Sg+Nom
+d'awawki	d'awa_завоевать+V+Phab+Sg+Nom
+
+geksan	+?
+
+horoki	horokī_тетерев+N+Sg+Nom
+
+somamat	sōmama_самоотверженный+Adj+Sg+Instr
+somamat	sōmama_самоотверженный+Adj+Sg+Nom+Ps1Pl(INCL)
+somamat	sōmama_гигантский+Adj+Sg+Instr
+somamat	sōmama_гигантский+Adj+Sg+Nom+Ps1Pl(INCL)
+somamat	sōmamat_особенно+Adv
+somamat	somama_коварный+Adj+Sg+Instr
+somamat	somama_коварный+Adj+Sg+Nom+Ps1Pl(INCL)
+
+hald'aran	hāld'an_стыд+N+Pl+Accin+Ps3Sg
+
+hinilgendule	+?
+
+dikenche	dīkēn_притаиться+V+Pant+Sg+Nom
+dikenche	dīkēn_пригнуться+V+Pant+Sg+Nom
+dikenche	dīkēn_спрятать+V+Pant+Sg+Nom
+dikenche	dīkēn_забиться+V+Pant+Sg+Nom
+dikenche	dīkēn_засесть+V+Pant+Sg+Nom
+
+tarit	tā_сдёрнуть+V+Psim+Sg+Instr
+tarit	tā_сдёрнуть+V+Psim+Sg+Nom+Ps1Pl(INCL)
+tarit	tarit_потому+Adv
+tarit	tarit_тогда+Adv
+tarit	tārit_поэтому+Adv
+
+hinilgendu	+?
+
+dikeniwki	+?
+
+ocha	ō_застроить+V+Pant+Sg+Nom
+ocha	ō_настать+V+Pant+Sg+Nom
+ocha	ō_наделать+V+Pant+Sg+Nom
+ocha	ō_оказаться+V+Pant+Sg+Nom
+ocha	ō_определить+V+Pant+Sg+Nom
+ocha	ō_образовать+V+Pant+Sg+Nom
+ocha	ō_образоваться+V+Pant+Sg+Nom
+ocha	ō_осуществить+V+Pant+Sg+Nom
+ocha	ō_основать+V+Pant+Sg+Nom
+ocha	ō_очутиться+V+Pant+Sg+Nom
+ocha	ō_разработать+V+Pant+Sg+Nom
+ocha	ō_решить+V+Pant+Sg+Nom
+ocha	ō_водрузить+V+Pant+Sg+Nom
+ocha	ō_возникнуть+V+Pant+Sg+Nom
+ocha	ō_воздвигнуть+V+Pant+Sg+Nom
+ocha	ō_ввести+V+Pant+Sg+Nom
+ocha	ō_выработать+V+Pant+Sg+Nom
+ocha	ō_выйти+V+Pant+Sg+Nom
+ocha	ō_выстроить+V+Pant+Sg+Nom
+ocha	ō_выделывать+V+Pant+Sg+Nom
+ocha	ō_получиться+V+Pant+Sg+Nom
+ocha	ō_появиться+V+Pant+Sg+Nom
+ocha	ō_поступить+V+Pant+Sg+Nom
+ocha	ō_поставить+V+Pant+Sg+Nom
+ocha	ō_построить+V+Pant+Sg+Nom
+ocha	ō_провести+V+Pant+Sg+Nom
+ocha	ō_происходить+V+Pant+Sg+Nom
+ocha	ō_произойти+V+Pant+Sg+Nom
+ocha	ō_производить+V+Pant+Sg+Nom
+ocha	ō_произвести+V+Pant+Sg+Nom
+ocha	ō_проделать+V+Pant+Sg+Nom
+ocha	ō_приключиться+V+Pant+Sg+Nom
+ocha	ō_причинить+V+Pant+Sg+Nom
+ocha	ō_исполнить+V+Pant+Sg+Nom
+ocha	ō_исполниться+V+Pant+Sg+Nom
+ocha	ō_изготовить+V+Pant+Sg+Nom
+ocha	ō_соорудить+V+Pant+Sg+Nom
+ocha	ō_совершить+V+Pant+Sg+Nom
+ocha	ō_составить+V+Pant+Sg+Nom
+ocha	ō_создать+V+Pant+Sg+Nom
+ocha	ō_случаться+V+Pant+Sg+Nom
+ocha	ō_случиться+V+Pant+Sg+Nom
+ocha	ō_смастерить+V+Pant+Sg+Nom
+ocha	ō_стать+V+Pant+Sg+Nom
+ocha	ō_сделать+V+Pant+Sg+Nom
+ocha	ō_сделаться+V+Pant+Sg+Nom
+ocha	ō_деваться+V+Pant+Sg+Nom
+ocha	ō_деться+V+Pant+Sg+Nom
+ocha	ō_установиться+V+Pant+Sg+Nom
+ocha	ō_устроить+V+Pant+Sg+Nom
+ocha	ōcha_случай+N+Sg+Nom
+

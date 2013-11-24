@@ -1,0 +1,104 @@
+### evenki.foma ###
+# Cons
+define Cons [b|ch|d|d'|f|g|h|j|k|l|m|n'|ng|p|r|s|s'|sh|t|w|z|zh];
+# Vowel
+define Vowel [a|e|i|o|u|y];
+# voiceless consonants
+define ConsVoiceless [h|k|p|s|t|ch];
+# voiced consonants
+define ConsVoiced [d|d'|l|w|g|r|n];
+# velar stops
+define ConsVelarStop [g|k];
+#nasal consonants
+define ConsNasal [m|n|ng];
+
+# Cleanup: remove morpheme boundaries
+define Cleanup "^" -> 0;
+
+#TODO rules for suffixes not sounds!
+############################################GENERAL RULES##################################################
+
+# Voiced2Voiceless voiced consonants become voiceless after voiceless consonants (amut/amutpa)
+define Voiced2VoicelessReplacement d -> t || ConsVoiceless"^" _   ,,
+			       d' -> ch || ConsVoiceless"^" _    ,,
+			       w -> p || ConsVoiceless"^" _    ,,
+			       g -> k || ConsVoiceless"^" _    ,,
+			       r -> t || ConsVoiceless"^" _ ;
+
+# Nasalization w, g, s become nasal after nasals (nginakin/nginakinma)
+define Nasalization w -> m || ConsNasal"^" _  ,,
+	               g -> ng || ConsNasal"^" _  ,,
+	               s -> n || ConsNasal"^" _  ;
+
+#R2L Replacement r becomes l after l (d'ewul-+-re/d'ewulle)
+define R2LReplacement r->l || l"^"_ ;
+
+#R2J Replacement r becomes j after j (uj-+-re/ujje)
+define R2JReplacement r->j|| j"^"_ ;
+
+#W2P Replacement w becomes p before voiceless consonants (suruw-+-kel/surupkel)
+define W2PReplacement w -> p || _"^"ConsVoiceless;
+
+#W2B Replacement w becomes b before voiced consonants (suruw-+-d'ew/surubd'ew)
+define W2BReplacement w -> b || _"^"ConsVoiced;
+
+#W2B Replacement w becomes m before nasal consonants (d'ew-+-mi/d'emmi)
+define W2MReplacement w -> m || _"^"ConsNasal;
+
+#G2K Replacement g becomes k before voiceless consonants (dag-+-kal/dakkal)
+define G2KReplacement g -> k || _"^"ConsVoiceless;
+
+#VelStop2W Replacement g and k become w before w (gag-+-wa/gawwa)
+define VelStop2WReplacement ConsVelarStop -> w || _"^"w;
+
+# NgW2MM substitution ng+w transformed into mm (hunad'ing-+-war/hunad'immar)
+define NgW2MMSubstitution ng"^"w -> mm;
+
+# R deletion r deleted after n and r (gun-+-re/gune)
+define RDeletion r->0 || [n|r]"^"_;
+
+######################################################################AFFIX RULES##############
+# T2DiReplacement t replaced with d'i after l/n (gagil/gagild'i)
+define AffixT2DiReplacement t -> d'i || ["^"l|n]"^" _ [.#.|"^"];
+
+# J deleted ja replaced with a after l/n (oror/ororo)
+define AffixJDeletion j -> 0 || ["^"l|n]"^" _ ;
+
+# NL2R substitution n+l transformed into r (nginakin/nginakir)
+define AffixNL2RSubstitution n"^"l -> r;
+
+# I insertion i added after consonants before pl (adyl/adylil) , instr (gag/gagit), ps1sg
+#TODO: pl instead of l
+define AffixIInsertion [..] -> i || [Cons|n] _ "^" [l|t|g l a|g l i|l d u|w|s|n|t] [.#.|"^"] ,,
+				  [..] -> i || [Cons|n] "^" t _ k i;
+
+# DU insertion du added after consonants before locall/prol (adyl/adyldula)
+#TODO: locall/prol instead of l
+define AffixDUInsertion [..] -> d u || ConsVoiced _ "^"l[A|I][.#.|"^"] ,,
+				   [..] -> t u || ConsVoiceless _ "^"l[A|I][.#.|"^"];
+
+
+
+read lexc E:\Evenki\thesis\evenkiCurMorph\evenki.lexc
+define Lexicon;
+
+define Grammar Lexicon           .o. 
+             AffixT2DiReplacement  .o.
+			 AffixJDeletion  .o.
+			 AffixDUInsertion           .o.
+			 AffixNL2RSubstitution           .o.
+		     AffixIInsertion           .o.
+	         R2JReplacement           .o.
+	         R2LReplacement           .o.
+	         W2PReplacement           .o.
+             W2BReplacement           .o.
+             W2MReplacement           .o.
+	         VelStop2WReplacement           .o.
+             NgW2MMSubstitution           .o.
+             RDeletion		.o.		 
+			 G2KReplacement           .o.
+			 Nasalization           .o.	
+			 Voiced2VoicelessReplacement           .o.
+             Cleanup;
+
+regex Grammar;

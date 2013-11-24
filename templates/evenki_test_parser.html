@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Evenki morphology{% endblock %}
+{% block head %}
+{{super()}}
+
+<script type="text/javascript">
+
+    var dataResult = null;
+
+    var WAIT_MSG = 'Пожалуйста, подождите...';
+    var ERROR_EMPTY_MSG = 'Ошибка: задан пустой запрос';
+
+    $(function() {
+
+	    $('#searchWord').bind('click', function(){
+	
+	        var evenkiText =  $('#evenki_text').val();
+	        if(isNormal(evenkiText)){
+	            showMessage(WAIT_MSG);
+	            $.getJSON('{{url_for("parse_text")}}', {
+	                evenki_text: evenkiText.replace(/'/g,"%27")
+	            }, function(data) {
+	                clearResult();
+	                if('error' in data){
+	                	showMessage(data.error);
+	                }
+	                else{
+	                	dataResult =data.result;
+	                	showResult(data.result,evenkiText);
+	                }
+	                
+	            });
+	        }
+	        else{
+	            showMessage(ERROR_EMPTY_MSG);
+	        }
+	    });
+    });
+
+
+    function showResult(dataResult,evenkiText){
+        for(var key in dataResult){
+            evenkiText = markupSearch(evenkiText, key);
+        }
+        $('#result').html(evenkiText)
+    }
+
+    function showParses(element){
+        var listOfParses=createList(dataResult[element.innerText]);
+        $('#parses').html(listOfParses);
+    }
+
+    function showMessage(error){
+        $('#result').text(error);
+        $('#parses').html('');
+    }
+
+    function clearResult(){
+        $('#result').text('');
+        $('#parses').html('');
+    }
+
+    function isNormal(text){
+        return text!=null && text!='';
+    }
+
+    function createList(listOfParses){
+        var result="<ul>";
+        $(listOfParses).each(
+        	function(i, el){
+        		result+="<li>"+el+"</li>";
+        	}
+        )
+        return result+"</ul>";
+    }
+
+    function markupSearch(text, searchStr){
+        return text.replace(new RegExp('(^|\\s)('+searchStr+')(?=\\s|$|,|\\.|!|\\?|-|:|;|—|\\[|\\])', 'g'),
+                "$1<span class='markup' name='markup' onclick='showParses(this)'>$2</span>");
+    }
+    </script>
+{% endblock %}
+{% block main %}
+    <textarea id="evenki_text" rows="10" cols="20"></textarea>
+    <input id="searchWord" type="button" value="Разобрать"/>
+    <div id="result"></div>
+    <div id="parses"></div>
+    <div>Введите текст на эвенкийском языке. Например, Тадук гуниттэн нуӈан, тар ахи этэттэн гуниксэ</div>
+{% endblock %}

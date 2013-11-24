@@ -1,0 +1,195 @@
+nekundukin	nēkun_внучка+N+Sg+Abl+Ps3Sg
+nekundukin	nekūn_внук+N+Sg+Abl+Ps3Sg
+nekundukin	nekūn_младшая_сестра+N+Sg+Abl+Ps3Sg
+
+ulgimittensi	+?
+
+sari	sā_справиться+V+Psim+Sg+Nom
+sari	sā_знать+V+Psim+Sg+Nom
+sari	sārī_учёный+Adj+Sg+Nom
+sari	sārī_известный+Adj+Sg+Nom
+sari	sārī_знакомый+N+Sg+Nom
+
+bimi	bi_водиться+V+Cvcond+Sg
+bimi	bi_выжить+V+Cvcond+Sg
+bimi	bi_попадаться+V+Cvcond+Sg
+bimi	bi_пробить+V+Cvcond+Sg
+bimi	bi_прожить+V+Cvcond+Sg
+bimi	bi_быть+V+Cvcond+Sg
+bimi	bi_иметься+V+Cvcond+Sg
+bimi	bi_состояться+V+Cvcond+Sg
+bimi	bi_случаться+V+Cvcond+Sg
+
+ulguchekel	+?
+
+nekunin	nēkun_внучка+N+Sg+Nom+Ps3Sg
+nekunin	nekūn_внук+N+Sg+Nom+Ps3Sg
+nekunin	nekūn_младшая_сестра+N+Sg+Nom+Ps3Sg
+
+s'ekak	+?
+
+ahi	ahī_самка+N+Sg+Nom
+
+turechitten	+?
+
+akintikiwi	akīn_брат+N+Sg+All+Rfl
+
+d'ewedareko	+?
+
+d'ewedareko	+?
+
+wi	+?
+
+aki	+?
+
+ede	e_воздержаться+V+Cvpurp
+ede	e_таить+V+Cvpurp
+
+dilachawe	dilachā_солнце+N+Sg+Acc
+
+amargut	amargū_конечный+Adj+Sg+Instr
+amargut	amargū_конечный+Adj+Sg+Nom+Ps1Pl(INCL)
+amargut	amargū_последний+Adj+Sg+Instr
+amargut	amargū_последний+Adj+Sg+Nom+Ps1Pl(INCL)
+amargut	amargū_задний+Adj+Sg+Instr
+amargut	amargū_задний+Adj+Sg+Nom+Ps1Pl(INCL)
+amargut	amargūt_потом+Adv
+
+icheche	ī_войти+V+Stat+Pant+Sg+Nom
+icheche	ī_послышаться+V+Stat+Pant+Sg+Nom
+icheche	ī_забраться+V+Stat+Pant+Sg+Nom
+icheche	ī_забрести+V+Stat+Pant+Sg+Nom
+icheche	ī_заехать+V+Stat+Pant+Sg+Nom
+icheche	iche_увидать+V+Pant+Sg+Nom
+icheche	iche_ощипывать+V+Pant+Sg+Nom
+icheche	iche_предвидеть+V+Pant+Sg+Nom
+icheche	ichechē_очевидец+N+Sg+Nom
+
+on	ō_душа+N+Sg+Nom+Ps3Sg
+on	on_верно+Adv
+on	ōn_акт+N+Sg+Nom
+on	ōn_образование+N+Sg+Nom
+on	ōn_как+Adv
+on	ōn_случай+N+Sg+Nom
+on	ōn_действие+N+Sg+Nom
+
+sad'em	sā_справиться+V+Futcnt+1Sg
+sad'em	sā_справиться+V+Ipfv+Nfut+1Sg
+sad'em	sā_знать+V+Futcnt+1Sg
+sad'em	sā_знать+V+Ipfv+Nfut+1Sg
+
+on	ō_душа+N+Sg+Nom+Ps3Sg
+on	on_верно+Adv
+on	ōn_акт+N+Sg+Nom
+on	ōn_образование+N+Sg+Nom
+on	ōn_как+Adv
+on	ōn_случай+N+Sg+Nom
+on	ōn_действие+N+Sg+Nom
+
+enewes	e_воздержаться+V+Ppf+Sg+Acc+Ps2Sg
+enewes	e_таить+V+Ppf+Sg+Acc+Ps2Sg
+
+sare	sā_справиться+V+Nfut+3Pl
+sare	sā_справиться+V+Pneg
+sare	sā_знать+V+Nfut+3Pl
+sare	sā_знать+V+Pneg
+
+si	si_ты+N+Sg+Nom
+si	sī_жёлчь+N+Sg+Nom
+
+sami	sā_справиться+V+Cvcond+Sg
+sami	sā_знать+V+Cvcond+Sg
+
+samchas	+?
+
+taduk	tāduk_оттуда+Adv
+taduk	tāduk_потом+Adv
+taduk	tāduk_затем+Adv
+
+gunitten	gūn_ответить+V+Dur+Nfut+3Sg
+gunitten	gūn_ответить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_обратиться+V+Dur+Nfut+3Sg
+gunitten	gūn_обратиться+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_выразить+V+Dur+Nfut+3Sg
+gunitten	gūn_выразить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_высказать+V+Dur+Nfut+3Sg
+gunitten	gūn_высказать+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_высказаться+V+Dur+Nfut+3Sg
+gunitten	gūn_высказаться+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_проговориться+V+Dur+Nfut+3Sg
+gunitten	gūn_проговориться+V+Dur+Cvpurp+Ps3Sg
+gunitten	gūn_заключить+V+Dur+Nfut+3Sg
+gunitten	gūn_заключить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_возразить+V+Dur+Nfut+3Sg
+gunitten	gun_возразить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_вывести+V+Dur+Nfut+3Sg
+gunitten	gun_вывести+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_повторить+V+Dur+Nfut+3Sg
+gunitten	gun_повторить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_сказать+V+Dur+Nfut+3Sg
+gunitten	gun_сказать+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_заметить+V+Dur+Nfut+3Sg
+gunitten	gun_заметить+V+Dur+Cvpurp+Ps3Sg
+gunitten	gun_заявить+V+Dur+Nfut+3Sg
+gunitten	gun_заявить+V+Dur+Cvpurp+Ps3Sg
+
+nungan	nungan_он+N+Sg+Nom
+
+tar	+?
+
+ahi	ahī_самка+N+Sg+Nom
+
+etetten	ete_кончить+V+Dur+Nfut+3Sg
+etetten	ete_кончить+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_прервать+V+Dur+Nfut+3Sg
+etetten	ete_прервать+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_прекратить+V+Dur+Nfut+3Sg
+etetten	ete_прекратить+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_перестать+V+Dur+Nfut+3Sg
+etetten	ete_перестать+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_окончить+V+Dur+Nfut+3Sg
+etetten	ete_окончить+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_остановиться+V+Dur+Nfut+3Sg
+etetten	ete_остановиться+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_докончить+V+Dur+Nfut+3Sg
+etetten	ete_докончить+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_закончить+V+Dur+Nfut+3Sg
+etetten	ete_закончить+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_закрыть+V+Dur+Nfut+3Sg
+etetten	ete_закрыть+V+Dur+Cvpurp+Ps3Sg
+etetten	ete_завершить+V+Dur+Nfut+3Sg
+etetten	ete_завершить+V+Dur+Cvpurp+Ps3Sg
+etetten	etēt_оглянуться+V+Nfut+3Sg
+etetten	etēt_оглянуться+V+Cvpurp+Ps3Sg
+
+gunikse	gūn_ответить+V+Cvant+Sg
+gunikse	gūn_обратиться+V+Cvant+Sg
+gunikse	gūn_выразить+V+Cvant+Sg
+gunikse	gūn_высказать+V+Cvant+Sg
+gunikse	gūn_высказаться+V+Cvant+Sg
+gunikse	gūn_проговориться+V+Cvant+Sg
+gunikse	gūn_заключить+V+Cvant+Sg
+gunikse	gun_возразить+V+Cvant+Sg
+gunikse	gun_вывести+V+Cvant+Sg
+gunikse	gun_повторить+V+Cvant+Sg
+gunikse	gun_сказать+V+Cvant+Sg
+gunikse	gun_заметить+V+Cvant+Sg
+gunikse	gun_заявить+V+Cvant+Sg
+
+tar	+?
+
+nekuntikiwi	nēkun_внучка+N+Sg+All+Rfl
+nekuntikiwi	nekūn_внук+N+Sg+All+Rfl
+nekuntikiwi	nekūn_младшая_сестра+N+Sg+All+Rfl
+
+n'an	n'an_заново+Adv
+n'an	n'ān_опять+Adv
+n'an	n'ān_снова+Adv
+
+turechitten	+?
+
+mata	mata_богатырь+N+Sg+Nom
+mata	mata_сосед+N+Sg+Nom
+mata	mata_гость+N+Sg+Nom
+mata	mata_земляк+N+Sg+Nom
+

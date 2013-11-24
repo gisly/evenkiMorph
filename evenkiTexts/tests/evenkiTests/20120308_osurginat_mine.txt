@@ -1,0 +1,791 @@
+sagdi	sagdi_взрослый+Adj+Sg+Nom
+sagdi	sagdi_маститый+Adj+Sg+Nom
+sagdi	sagdi_пожилой+Adj+Sg+Nom
+sagdi	sagdi_большой+Adj+Sg+Nom
+sagdi	sagdi_старый+Adj+Sg+Nom
+
+bejumimni	bejumīmnī_промышленник+N+Sg+Nom
+bejumimni	bejumīmnī_зверолов+N+Sg+Nom
+
+jefim	+?
+
+kamirgin	+?
+
+agilla	agīl_объехать+V+Nfut+3Pl
+agilla	agīl_объехать+V+Pneg
+agilla	agīl_свернуть+V+Nfut+3Pl
+agilla	agīl_свернуть+V+Pneg
+agilla	agil_сворачивать+V+Nfut+3Pl
+agilla	agil_сворачивать+V+Pneg
+agilla	agil_завёртывать+V+Nfut+3Pl
+agilla	agil_завёртывать+V+Pneg
+
+ichetnedewi	+?
+
+hutewen	hute_потомок+N+Sg+Acc+Ps3Sg
+hutewen	hute_сын+N+Sg+Acc+Ps3Sg
+hutewen	hute_дочь+N+Sg+Acc+Ps3Sg
+hutewen	hute_дитя+N+Sg+Acc+Ps3Sg
+hutewen	hute_детёныш+N+Sg+Acc+Ps3Sg
+
+geleren	gelē_потребовать+V+Nfut+3Sg
+geleren	gelē_соскучиться+V+Nfut+3Sg
+geleren	gelē_затребовать+V+Nfut+3Sg
+geleren	gelēn_ходатайство+N+Pl+Accin+Ps3Sg
+geleren	gelēn_охота+N+Pl+Accin+Ps3Sg
+geleren	gelēn_помысел+N+Pl+Accin+Ps3Sg
+geleren	gelēn_пожелание+N+Pl+Accin+Ps3Sg
+geleren	gelēn_просьба+N+Pl+Accin+Ps3Sg
+geleren	gelēn_требование+N+Pl+Accin+Ps3Sg
+geleren	gelēn_запрос+N+Pl+Accin+Ps3Sg
+geleren	gelēn_желание+N+Pl+Accin+Ps3Sg
+
+mautgachindi	+?
+
+etirken	etirkēn_супруг+N+Sg+Nom
+etirken	etirkēn_старик+N+Sg+Nom
+
+d'alilin	d'al_мысль+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_рассудок+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_разум+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_взгляд+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_ум+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_убеждение+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_идея+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_сознание+N+Pl+Nom+Ps3Sg
+d'alilin	d'al_дума+N+Pl+Nom+Ps3Sg
+
+eliwd'ere	+?
+
+hoktoronmo	hoktorōn_старая_тропа+N+Sg+Acc
+
+ured'enel	urē_походить+V+Ipfv+Cvsim+Pl
+ured'enel	urē_избежать+V+Ipfv+Cvsim+Pl
+ured'enel	ure_избавиться+V+Ipfv+Cvsim+Pl
+ured'enel	ure_согласиться+V+Ipfv+Cvsim+Pl
+ured'enel	ure_спастись+V+Ipfv+Cvsim+Pl
+
+antili	+?
+
+uchagin	ū_скоблить+V+Stat+Imper3Sg
+
+aran	ar_очнуться+V+Nfut+3Sg
+aran	ar_ожить+V+Nfut+3Sg
+aran	aran_еле+Adv
+aran	aran_едва+Adv
+aran	aran_чуть+Adv
+aran	aran_юрта+N+Sg+Nom
+aran	an_рябчик+N+Pl+Accin+Ps3Sg
+
+aran	ar_очнуться+V+Nfut+3Sg
+aran	ar_ожить+V+Nfut+3Sg
+aran	aran_еле+Adv
+aran	aran_едва+Adv
+aran	aran_чуть+Adv
+aran	aran_юрта+N+Sg+Nom
+aran	an_рябчик+N+Pl+Accin+Ps3Sg
+
+ngened'eren	ngene_длиться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_двигаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_катить+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_пролетать+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_продолжаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_передвигаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_тянуться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_идти+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_ехать+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_шествовать+V+Ipfv+Nfut+3Sg
+
+amakanmejut	+?
+
+herelgen	herelgen_низина+N+Sg+Nom
+
+lut'enga	+?
+
+ichewuld'engen	ichewul_выйти+V+Fut+3Sg
+ichewuld'engen	ichewul_выйти+V+Ppost+Sg+Nom+Ps3Sg
+ichewuld'engen	ichewul_показаться+V+Fut+3Sg
+ichewuld'engen	ichewul_показаться+V+Ppost+Sg+Nom+Ps3Sg
+ichewuld'engen	ichewul_появляться+V+Fut+3Sg
+ichewuld'engen	ichewul_появляться+V+Ppost+Sg+Nom+Ps3Sg
+ichewuld'engen	ichewul_появиться+V+Fut+3Sg
+ichewuld'engen	ichewul_появиться+V+Ppost+Sg+Nom+Ps3Sg
+
+gugdaduk	gugda_вышина+N+Sg+Abl
+gugdaduk	gugda_высокий+Adj+Sg+Abl
+gugdaduk	gugda_высота+N+Sg+Abl
+
+ureduk	ure_гора+N+Sg+Abl
+
+ajat	aja_щедрый+Adj+Sg+Instr
+ajat	aja_щедрый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_невредимый+Adj+Sg+Instr
+ajat	aja_невредимый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_аппетитный+Adj+Sg+Instr
+ajat	aja_аппетитный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_острый+Adj+Sg+Instr
+ajat	aja_острый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_лакомый+Adj+Sg+Instr
+ajat	aja_лакомый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_любезный+Adj+Sg+Instr
+ajat	aja_любезный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_милый+Adj+Sg+Instr
+ajat	aja_милый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_прелесть+N+Sg+Instr
+ajat	aja_прелесть+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_толк+N+Sg+Instr
+ajat	aja_толк+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благо+N+Sg+Instr
+ajat	aja_благо+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благоприятный+Adj+Sg+Instr
+ajat	aja_благоприятный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благожелательный+Adj+Sg+Instr
+ajat	aja_благожелательный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_славный+Adj+Sg+Instr
+ajat	aja_славный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_сытный+Adj+Sg+Instr
+ajat	aja_сытный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_добро+N+Sg+Instr
+ajat	aja_добро+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_доброта+N+Sg+Instr
+ajat	aja_доброта+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_добрый+Adj+Sg+Instr
+ajat	aja_добрый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_чувствительный+Adj+Sg+Instr
+ajat	aja_чувствительный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_чёткий+Adj+Sg+Instr
+ajat	aja_чёткий+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_хороший+Adj+Sg+Instr
+ajat	aja_хороший+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	ajat_хорошо+Adv
+ajat	ajat_начисто+Adv
+
+hegdimeme	hegdimeme_великий+Adj+Sg+Nom
+hegdimeme	hegdimeme_рослый+Adj+Sg+Nom
+hegdimeme	hegdimeme_колоссальный+Adj+Sg+Nom
+hegdimeme	hegdimeme_необъятный+Adj+Sg+Nom
+hegdimeme	hegdimeme_массивный+Adj+Sg+Nom
+hegdimeme	hegdimeme_монументальный+Adj+Sg+Nom
+hegdimeme	hegdimeme_баснословный+Adj+Sg+Nom
+hegdimeme	hegdimeme_большущий+Adj+Sg+Nom
+hegdimeme	hegdimeme_грандиозный+Adj+Sg+Nom
+hegdimeme	hegdimeme_громадный+Adj+Sg+Nom
+hegdimeme	hegdimēme_огромный+Adj+Sg+Nom
+
+holokto	holokto_ветхий+Adj+Sg+Nom
+holokto	holokto_застарелый+Adj+Sg+Nom
+
+osurginat	+?
+
+han'anin	han'an_тень+N+Sg+Nom+Ps3Sg
+
+semelkiwd'engen	+?
+
+osurginat	+?
+
+minngi	+?
+
+grisha	+?
+
+kungakandukwi	+?
+
+erewe	erē_беда+N+Sg+Acc
+
+sotkumamawa	+?
+
+irektewe	irēkte_лиственница+N+Sg+Acc
+irektewe	irēkte_дерево+N+Sg+Acc
+
+osurginatwe	+?
+
+saren	sā_справиться+V+Nfut+3Sg
+saren	sā_знать+V+Nfut+3Sg
+
+er	+?
+
+ted'e	ted'ē_надёжный+Adj+Sg+Nom
+ted'e	ted'ē_основательный+Adj+Sg+Nom
+ted'e	ted'ē_верно+Adv
+ted'e	ted'ē_верность+N+Sg+Nom
+ted'e	ted'ē_верный+Adj+Sg+Nom
+ted'e	ted'ē_вера+N+Sg+Nom
+ted'e	ted'ē_правило+N+Sg+Nom
+ted'e	ted'ē_правдивый+Adj+Sg+Nom
+ted'e	ted'ē_бесспорно+Adv
+ted'e	ted'ē_истинный+Adj+Sg+Nom
+ted'e	ted'ē_истина+N+Sg+Nom
+ted'e	ted'ē_справедливость+N+Sg+Nom
+ted'e	ted'ē_уверенность+N+Sg+Nom
+ted'e	ted'e_испытанный+Adj+Sg+Nom
+
+ele	ēlē_сюда+Adv
+ele	ele_только+Adv
+ele	ele_исключительно+Adv
+ele	elē_вплоть+Adv
+ele	elē_тут+Adv
+
+nungan	nungan_он+N+Sg+Nom
+
+ilitchachan	il_остановиться+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ilitchachan	il_остановиться+V+Dur+Stat+Pst+3Sg
+ilitchachan	il_вставать+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ilitchachan	il_вставать+V+Dur+Stat+Pst+3Sg
+ilitchachan	il_слезть+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ilitchachan	il_слезть+V+Dur+Stat+Pst+3Sg
+ilitchachan	il_замереть+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ilitchachan	il_замереть+V+Dur+Stat+Pst+3Sg
+ilitchachan	il_зазвучать+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ilitchachan	il_зазвучать+V+Dur+Stat+Pst+3Sg
+ilitchachan	ilitcha_отстоять+V+Pant+Sg+Nom+Ps3Sg
+ilitchachan	ilitcha_отстоять+V+Pst+3Sg
+ilitchachan	ilitcha_стоять+V+Pant+Sg+Nom+Ps3Sg
+ilitchachan	ilitcha_стоять+V+Pst+3Sg
+
+ngu	+?
+
+bugdi	bugdi_внушительный+N+Sg+Nom
+bugdi	bugdi_пегий+Adj+Sg+Nom
+bugdi	bugdi_большой+N+Sg+Nom
+bugdi	bugdi_гордый+Adj+Sg+Nom
+bugdi	bugdī_выдающийся+Adj+Sg+Nom
+
+mo	mō_полено+N+Sg+Nom
+mo	mō_бревно+N+Sg+Nom
+mo	mō_столб+N+Sg+Nom
+mo	mō_ствол+N+Sg+Nom
+mo	mō_древесина+N+Sg+Nom
+mo	mō_дерево+N+Sg+Nom
+
+hergidelin	+?
+
+dilwa	dil_голова+N+Sg+Acc
+
+ungkerona	+?
+
+ejetchechen	ēje_затонуть+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ēje_затонуть+V+Dur+Stat+Pst+3Sg
+ejetchechen	ejē_утонуть+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejē_утонуть+V+Dur+Stat+Pst+3Sg
+ejetchechen	ejē_потонуть+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejē_потонуть+V+Dur+Stat+Pst+3Sg
+ejetchechen	ejē_захлебнуться+V+Dur+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejē_захлебнуться+V+Dur+Stat+Pst+3Sg
+ejetchechen	ejēt_попросить+V+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_попросить+V+Stat+Pst+3Sg
+ejetchechen	ejēt_попросить+V+Ipfv+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_попросить+V+Ipfv+Pst+3Sg
+ejetchechen	ejēt_соблазниться+V+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_соблазниться+V+Stat+Pst+3Sg
+ejetchechen	ejēt_соблазниться+V+Ipfv+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_соблазниться+V+Ipfv+Pst+3Sg
+ejetchechen	ejēt_затребовать+V+Stat+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_затребовать+V+Stat+Pst+3Sg
+ejetchechen	ejēt_затребовать+V+Ipfv+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejēt_затребовать+V+Ipfv+Pst+3Sg
+ejetchechen	ejētche_хотеть+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_хотеть+V+Pst+3Sg
+ejetchechen	ejētche_хотеться+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_хотеться+V+Pst+3Sg
+ejetchechen	ejētche_взыскивать+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_взыскивать+V+Pst+3Sg
+ejetchechen	ejētche_пожелать+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_пожелать+V+Pst+3Sg
+ejetchechen	ejētche_просить+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_просить+V+Pst+3Sg
+ejetchechen	ejētche_требовать+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_требовать+V+Pst+3Sg
+ejetchechen	ejētche_спрашивать+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_спрашивать+V+Pst+3Sg
+ejetchechen	ejētche_желать+V+Pant+Sg+Nom+Ps3Sg
+ejetchechen	ejētche_желать+V+Pst+3Sg
+
+ngu	+?
+
+kutujewi	+?
+
+enen	e_воздержаться+V+Ppf+Sg+Nom+Ps3Sg
+enen	e_воздержаться+V+Evid+3Sg
+enen	e_таить+V+Ppf+Sg+Nom+Ps3Sg
+enen	e_таить+V+Evid+3Sg
+
+de	dē_а+N+Sg+Nom
+
+menngitwi	+?
+
+hoktotwi	+?
+
+nungan	nungan_он+N+Sg+Nom
+
+ngened'eren	ngene_длиться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_двигаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_катить+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_пролетать+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_продолжаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_передвигаться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_тянуться+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_идти+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_ехать+V+Ipfv+Nfut+3Sg
+ngened'eren	ngene_шествовать+V+Ipfv+Nfut+3Sg
+
+omaktat	ōmakta_новый+Adj+Sg+Instr
+omaktat	ōmakta_новый+Adj+Sg+Nom+Ps1Pl(INCL)
+omaktat	ōmaktat_вновь+Adv
+omaktat	omaktat_заново+Adv
+
+et	et_война+N+Sg+Nom
+
+ka	+?
+
+etirker	etirkēn_супруг+N+Pl+Nom
+etirker	etirkēn_старик+N+Pl+Nom
+
+bodolitin	bodo_обиход+N+Sg+Prol+Ps3Pl
+bodolitin	bodo_быт+N+Sg+Prol+Ps3Pl
+bodolitin	bodo_житьё+N+Sg+Prol+Ps3Pl
+bodolitin	bodo_жизнь+N+Sg+Prol+Ps3Pl
+
+ngened'enge	ngene_длиться+V+Ppost+Sg+Nom
+ngened'enge	ngene_двигаться+V+Ppost+Sg+Nom
+ngened'enge	ngene_катить+V+Ppost+Sg+Nom
+ngened'enge	ngene_пролетать+V+Ppost+Sg+Nom
+ngened'enge	ngene_продолжаться+V+Ppost+Sg+Nom
+ngened'enge	ngene_передвигаться+V+Ppost+Sg+Nom
+ngened'enge	ngene_тянуться+V+Ppost+Sg+Nom
+ngened'enge	ngene_идти+V+Ppost+Sg+Nom
+ngened'enge	ngene_ехать+V+Ppost+Sg+Nom
+ngened'enge	ngene_шествовать+V+Ppost+Sg+Nom
+
+bid'engen	bi_водиться+V+Fut+3Sg
+bid'engen	bi_водиться+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_выжить+V+Fut+3Sg
+bid'engen	bi_выжить+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_попадаться+V+Fut+3Sg
+bid'engen	bi_попадаться+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_пробить+V+Fut+3Sg
+bid'engen	bi_пробить+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_прожить+V+Fut+3Sg
+bid'engen	bi_прожить+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_быть+V+Fut+3Sg
+bid'engen	bi_быть+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_иметься+V+Fut+3Sg
+bid'engen	bi_иметься+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_состояться+V+Fut+3Sg
+bid'engen	bi_состояться+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bi_случаться+V+Fut+3Sg
+bid'engen	bi_случаться+V+Ppost+Sg+Nom+Ps3Sg
+bid'engen	bid'engēn_возможно+Adv
+
+sotkut	sōtkū_основной+Adj+Sg+Instr
+sotkut	sōtkū_основной+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_важный+Adj+Sg+Instr
+sotkut	sōtkū_важный+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_первоочередной+Adj+Sg+Instr
+sotkut	sōtkū_первоочередной+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_существенный+Adj+Sg+Instr
+sotkut	sōtkū_существенный+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_серьёзный+Adj+Sg+Instr
+sotkut	sōtkū_серьёзный+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_главный+Adj+Sg+Instr
+sotkut	sōtkū_главный+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_генеральный+Adj+Sg+Instr
+sotkut	sōtkū_генеральный+Adj+Sg+Nom+Ps1Pl(INCL)
+sotkut	sōtkū_заветный+Adj+Sg+Instr
+sotkut	sōtkū_заветный+Adj+Sg+Nom+Ps1Pl(INCL)
+
+kamenngiwi	+?
+
+dunnewi	dunne_родина+N+Sg+Nom+Rfl
+dunnewi	dunne_край+N+Sg+Nom+Rfl
+dunnewi	dunne_вид+N+Sg+Nom+Rfl
+dunnewi	dunne_место+N+Sg+Nom+Rfl
+dunnewi	dunne_страна+N+Sg+Nom+Rfl
+dunnewi	dunne_земля+N+Sg+Nom+Rfl
+dunnewi	dunnē_территория+N+Sg+Nom+Rfl
+
+ajawugin	+?
+
+tarawe	+?
+
+ajat	aja_щедрый+Adj+Sg+Instr
+ajat	aja_щедрый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_невредимый+Adj+Sg+Instr
+ajat	aja_невредимый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_аппетитный+Adj+Sg+Instr
+ajat	aja_аппетитный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_острый+Adj+Sg+Instr
+ajat	aja_острый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_лакомый+Adj+Sg+Instr
+ajat	aja_лакомый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_любезный+Adj+Sg+Instr
+ajat	aja_любезный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_милый+Adj+Sg+Instr
+ajat	aja_милый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_прелесть+N+Sg+Instr
+ajat	aja_прелесть+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_толк+N+Sg+Instr
+ajat	aja_толк+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благо+N+Sg+Instr
+ajat	aja_благо+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благоприятный+Adj+Sg+Instr
+ajat	aja_благоприятный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_благожелательный+Adj+Sg+Instr
+ajat	aja_благожелательный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_славный+Adj+Sg+Instr
+ajat	aja_славный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_сытный+Adj+Sg+Instr
+ajat	aja_сытный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_добро+N+Sg+Instr
+ajat	aja_добро+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_доброта+N+Sg+Instr
+ajat	aja_доброта+N+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_добрый+Adj+Sg+Instr
+ajat	aja_добрый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_чувствительный+Adj+Sg+Instr
+ajat	aja_чувствительный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_чёткий+Adj+Sg+Instr
+ajat	aja_чёткий+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	aja_хороший+Adj+Sg+Instr
+ajat	aja_хороший+Adj+Sg+Nom+Ps1Pl(INCL)
+ajat	ajat_хорошо+Adv
+ajat	ajat_начисто+Adv
+
+itiwd'agin	+?
+
+holokto	holokto_ветхий+Adj+Sg+Nom
+holokto	holokto_застарелый+Adj+Sg+Nom
+
+ko	+?
+
+osurginat	+?
+
+omolgil	omolgī_молодец+N+Pl+Nom
+omolgil	omolgī_парень+N+Pl+Nom
+omolgil	omolgī_сын+N+Pl+Nom
+omolgil	omolgī_жених+N+Pl+Nom
+
+ungkerolduktin	+?
+
+meneken	mene_хитрость+Atten+N+Sg+Nom
+
+gorowo	goro_далёкий+Adj+Sg+Acc
+gorowo	goro_даль+N+Sg+Acc
+gorowo	goro_дальность+N+Sg+Acc
+gorowo	goro_давний+Adj+Sg+Acc
+gorowo	goro_долгий+Adj+Sg+Acc
+gorowo	gorowo_много+Adv
+gorowo	gorowo_долго+Adv
+
+ind'ed'engen	in_прожить+V+Ipfv+Ppost+Sg+Nom+Ps3Sg
+ind'ed'engen	in_прожить+V+Ipfv+Fut+3Sg
+
+bajmeme	+?
+
+lut'enga	+?
+
+agidun	agī_тайга+N+Sg+Datloc+Ps3Sg
+agidun	agi_поле+N+Sg+Datloc+Ps3Sg
+agidun	āgi_пристань+N+Sg+Datloc+Ps3Sg
+
+ilitchad'angaju	+?
+
+merngirduwi	+?
+
+garalduwi	gara_ветка+N+Pl+Datloc+Rfl
+garalduwi	gara_ветвь+N+Pl+Datloc+Rfl
+garalduwi	gara_сук+N+Pl+Datloc+Rfl
+garalduwi	garal_хворост+N+Sg+Datloc+Rfl
+
+ketewe	kete_уйма+N+Sg+Acc
+ketewe	kete_обилие+N+Sg+Acc
+ketewe	kete_многое+N+Sg+Acc
+ketewe	kete_множество+N+Sg+Acc
+ketewe	kete_масса+N+Sg+Acc
+ketewe	kete_изобилие+N+Sg+Acc
+
+ulukilwe	ulukī_белка+N+Pl+Acc
+
+tawd'ana	+?
+
+on	ō_душа+N+Sg+Nom+Ps3Sg
+on	on_верно+Adv
+on	ōn_акт+N+Sg+Nom
+on	ōn_образование+N+Sg+Nom
+on	ōn_как+Adv
+on	ōn_случай+N+Sg+Nom
+on	ōn_действие+N+Sg+Nom
+
+da	dā_близость+N+Sg+Nom
+da	dā_близкий+Adj+Sg+Nom
+
+gund'ekel	gūn_ответить+V+Ipfv+Imper2Sg
+gund'ekel	gūn_обратиться+V+Ipfv+Imper2Sg
+gund'ekel	gūn_выразить+V+Ipfv+Imper2Sg
+gund'ekel	gūn_высказать+V+Ipfv+Imper2Sg
+gund'ekel	gūn_высказаться+V+Ipfv+Imper2Sg
+gund'ekel	gūn_проговориться+V+Ipfv+Imper2Sg
+gund'ekel	gūn_заключить+V+Ipfv+Imper2Sg
+gund'ekel	gun_возразить+V+Ipfv+Imper2Sg
+gund'ekel	gun_вывести+V+Ipfv+Imper2Sg
+gund'ekel	gun_повторить+V+Ipfv+Imper2Sg
+gund'ekel	gun_сказать+V+Ipfv+Imper2Sg
+gund'ekel	gun_заметить+V+Ipfv+Imper2Sg
+gund'ekel	gun_заявить+V+Ipfv+Imper2Sg
+
+hutelwun	hute_потомок+N+Pl+Nom+Ps1Pl(EXCL)
+hutelwun	hute_сын+N+Pl+Nom+Ps1Pl(EXCL)
+hutelwun	hute_дочь+N+Pl+Nom+Ps1Pl(EXCL)
+hutelwun	hute_дитя+N+Pl+Nom+Ps1Pl(EXCL)
+hutelwun	hute_детёныш+N+Pl+Nom+Ps1Pl(EXCL)
+hutelwun	hutel_потомство+N+Sg+Nom+Ps1Pl(EXCL)
+hutelwun	hutel_семейство+N+Sg+Nom+Ps1Pl(EXCL)
+
+seksetin	sēksē_кровь+N+Sg+Nom+Ps3Pl
+
+bejukittuk	+?
+
+bodowd'owki	+?
+
+amaski	amaskī_назад+Adv
+amaski	amaskī_обратно+Adv
+
+bu	+?
+
+moduk	mō_полено+N+Sg+Abl
+moduk	mō_бревно+N+Sg+Abl
+moduk	mō_столб+N+Sg+Abl
+moduk	mō_ствол+N+Sg+Abl
+moduk	mō_древесина+N+Sg+Abl
+moduk	mō_дерево+N+Sg+Abl
+
+osurginattuk	+?
+
+bejumekittulewer	bejumēkit_угодье+N+Sg+Locall+Rfl.Pl
+bejumekittulewer	bejumēkīt_охота+N+Sg+Locall+Rfl.Pl
+
+surungkiwun	suru_уйти+V+Pstiter+1Pl(EXCL)
+surungkiwun	suru_уехать+V+Pstiter+1Pl(EXCL)
+surungkiwun	suru_отойти+V+Pstiter+1Pl(EXCL)
+surungkiwun	suru_выбыть+V+Pstiter+1Pl(EXCL)
+surungkiwun	suru_выехать+V+Pstiter+1Pl(EXCL)
+surungkiwun	surū_уходить+V+Pstiter+1Pl(EXCL)
+
+tarit	tā_сдёрнуть+V+Psim+Sg+Instr
+tarit	tā_сдёрнуть+V+Psim+Sg+Nom+Ps1Pl(INCL)
+tarit	tarit_потому+Adv
+tarit	tarit_тогда+Adv
+tarit	tārit_поэтому+Adv
+
+ta	+?
+
+grisha	+?
+
+ele	ēlē_сюда+Adv
+ele	ele_только+Adv
+ele	ele_исключительно+Adv
+ele	elē_вплоть+Adv
+ele	elē_тут+Adv
+
+surumulchen	suru_уйти+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	suru_уйти+V+Des+Inch+Pst+3Sg
+surumulchen	suru_уехать+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	suru_уехать+V+Des+Inch+Pst+3Sg
+surumulchen	suru_отойти+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	suru_отойти+V+Des+Inch+Pst+3Sg
+surumulchen	suru_выбыть+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	suru_выбыть+V+Des+Inch+Pst+3Sg
+surumulchen	suru_выехать+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	suru_выехать+V+Des+Inch+Pst+3Sg
+surumulchen	surū_уходить+V+Des+Inch+Pant+Sg+Nom+Ps3Sg
+surumulchen	surū_уходить+V+Des+Inch+Pst+3Sg
+
+je	jē_горизонт+N+Sg+Nom
+
+je	jē_горизонт+N+Sg+Nom
+
+nungan	nungan_он+N+Sg+Nom
+
+ergun	e_воздержаться+V+EvidHab+3Sg
+ergun	e_таить+V+EvidHab+3Sg
+
+de	dē_а+N+Sg+Nom
+
+togowo	togo_огонь+N+Sg+Acc
+
+ulire	uli_скармливать+V+Nfut+3Pl
+ulire	uli_скармливать+V+Pneg
+ulire	ulī_накормить+V+Nfut+3Pl
+ulire	ulī_накормить+V+Pneg
+ulire	ulī_выкормить+V+Nfut+3Pl
+ulire	ulī_выкормить+V+Pneg
+ulire	ulī_вскормить+V+Nfut+3Pl
+ulire	ulī_вскормить+V+Pneg
+ulire	ulī_прокормить+V+Nfut+3Pl
+ulire	ulī_прокормить+V+Pneg
+ulire	ulīn_наледь+N+Pl+Accin
+ulire	ūli_потчевать+V+Nfut+3Pl
+ulire	ūli_потчевать+V+Pneg
+
+ergun	e_воздержаться+V+EvidHab+3Sg
+ergun	e_таить+V+EvidHab+3Sg
+
+de	dē_а+N+Sg+Nom
+
+agidilwa	agīdi_таёжный+Adj+Pl+Acc
+
+hargilwa	hargi_леший+N+Pl+Acc
+hargilwa	hargi_лес+N+Pl+Acc
+hargilwa	hargī_дьявол+N+Pl+Acc
+hargilwa	hargī_чёрт+N+Pl+Acc
+
+ajangista	+?
+
+ele	ēlē_сюда+Adv
+ele	ele_только+Adv
+ele	ele_исключительно+Adv
+ele	elē_вплоть+Adv
+ele	elē_тут+Adv
+
+ajamamat	ajamama_замечательный+Adj+Sg+Instr
+ajamamat	ajamama_замечательный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_задушевный+Adj+Sg+Instr
+ajamamat	ajamama_задушевный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_здравый+Adj+Sg+Instr
+ajamamat	ajamama_здравый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_отличный+Adj+Sg+Instr
+ajamamat	ajamama_отличный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_обаятельный+Adj+Sg+Instr
+ajamamat	ajamama_обаятельный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_лестный+Adj+Sg+Instr
+ajamamat	ajamama_лестный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_внимательный+Adj+Sg+Instr
+ajamamat	ajamama_внимательный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_великолепный+Adj+Sg+Instr
+ajamamat	ajamama_великолепный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_вежливый+Adj+Sg+Instr
+ajamamat	ajamama_вежливый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_прекрасный+Adj+Sg+Instr
+ajamamat	ajamama_прекрасный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_превосходный+Adj+Sg+Instr
+ajamamat	ajamama_превосходный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_тёплый+Adj+Sg+Instr
+ajamamat	ajamama_тёплый+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_дивный+Adj+Sg+Instr
+ajamamat	ajamama_дивный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_чудный+Adj+Sg+Instr
+ajamamat	ajamama_чудный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_чудесный+Adj+Sg+Instr
+ajamamat	ajamama_чудесный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamama_удобный+Adj+Sg+Instr
+ajamamat	ajamama_удобный+Adj+Sg+Nom+Ps1Pl(INCL)
+ajamamat	ajamamat_удобно+Adv
+ajamamat	ajamamat_примерно+Adv
+
+osurginatwe	+?
+
+ichuliche	ichulī_обследовать+V+Pant+Sg+Nom
+ichuliche	ichulī_оглядеть+V+Pant+Sg+Nom
+ichuliche	ichulī_рассмотреть+V+Pant+Sg+Nom
+ichuliche	ichulī_поверить+V+Pant+Sg+Nom
+ichuliche	ichulī_проколоть+V+Pant+Sg+Nom
+ichuliche	ichulī_проверить+V+Pant+Sg+Nom
+
+binen	bi_водиться+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_водиться+V+Evid+3Sg
+binen	bi_выжить+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_выжить+V+Evid+3Sg
+binen	bi_попадаться+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_попадаться+V+Evid+3Sg
+binen	bi_пробить+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_пробить+V+Evid+3Sg
+binen	bi_прожить+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_прожить+V+Evid+3Sg
+binen	bi_быть+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_быть+V+Evid+3Sg
+binen	bi_иметься+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_иметься+V+Evid+3Sg
+binen	bi_состояться+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_состояться+V+Evid+3Sg
+binen	bi_случаться+V+Ppf+Sg+Nom+Ps3Sg
+binen	bi_случаться+V+Evid+3Sg
+binen	binēn_возможно+Adv
+
+sagdiwa	sagdi_взрослый+Adj+Sg+Acc
+sagdiwa	sagdi_маститый+Adj+Sg+Acc
+sagdiwa	sagdi_пожилой+Adj+Sg+Acc
+sagdiwa	sagdi_большой+Adj+Sg+Acc
+sagdiwa	sagdi_старый+Adj+Sg+Acc
+
+itiwa	iti_закон+N+Sg+Acc
+itiwa	itī_распорядок+N+Sg+Acc
+itiwa	itī_традиция+N+Sg+Acc
+itiwa	itī_строй+N+Sg+Acc
+
+d'onchana	d'oncha_запомнить+V+Cvsim+Sg
+
+ketememe	ketememe_вдоволь+Adv
+ketememe	ketememe_бездна+N+Sg+Nom
+
+ulukil	ulukī_белка+N+Pl+Nom
+
+sotkumadu	+?
+
+irektedu	irēkte_лиственница+N+Sg+Datloc
+irektedu	irēkte_дерево+N+Sg+Datloc
+
+esi	esī_сейчас+Adv
+
+birektin	bi_водиться+V+Cvcond+Ps3Pl
+birektin	bi_выжить+V+Cvcond+Ps3Pl
+birektin	bi_попадаться+V+Cvcond+Ps3Pl
+birektin	bi_пробить+V+Cvcond+Ps3Pl
+birektin	bi_прожить+V+Cvcond+Ps3Pl
+birektin	bi_быть+V+Cvcond+Ps3Pl
+birektin	bi_иметься+V+Cvcond+Ps3Pl
+birektin	bi_состояться+V+Cvcond+Ps3Pl
+birektin	bi_случаться+V+Cvcond+Ps3Pl
+
+tugi	tugi_тоже+Adv
+tugi	tugī_так+Adv
+
+de	dē_а+N+Sg+Nom
+
+ketememe	ketememe_вдоволь+Adv
+ketememe	ketememe_бездна+N+Sg+Nom
+
+taril	tā_сдёрнуть+V+Psim+Pl+Nom
+
+agi	agī_тайга+N+Sg+Nom
+agi	agi_поле+N+Sg+Nom
+agi	āgi_пристань+N+Sg+Nom
+
+murelin	+?
+
+bid'engetin	bi_водиться+V+Fut+3Pl
+bid'engetin	bi_водиться+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_выжить+V+Fut+3Pl
+bid'engetin	bi_выжить+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_попадаться+V+Fut+3Pl
+bid'engetin	bi_попадаться+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_пробить+V+Fut+3Pl
+bid'engetin	bi_пробить+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_прожить+V+Fut+3Pl
+bid'engetin	bi_прожить+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_быть+V+Fut+3Pl
+bid'engetin	bi_быть+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_иметься+V+Fut+3Pl
+bid'engetin	bi_иметься+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_состояться+V+Fut+3Pl
+bid'engetin	bi_состояться+V+Ppost+Sg+Nom+Ps3Pl
+bid'engetin	bi_случаться+V+Fut+3Pl
+bid'engetin	bi_случаться+V+Ppost+Sg+Nom+Ps3Pl
+
+d'ontud'ana	d'ontu_упоминать+V+Ipfv+Cvsim+Sg
+
+omolgiduliwi	+?
+
+etirken	etirkēn_супруг+N+Sg+Nom
+etirken	etirkēn_старик+N+Sg+Nom
+
+in'emud'echen	in'emu_улыбаться+V+Ipfv+Pant+Sg+Nom+Ps3Sg
+in'emud'echen	in'emu_улыбаться+V+Ipfv+Pst+3Sg
+

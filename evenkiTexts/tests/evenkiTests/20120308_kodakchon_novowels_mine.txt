@@ -1,0 +1,421 @@
+bilir	bilir_раньше+Adv
+
+bilir	bilir_раньше+Adv
+
+dunne	dunne_родина+N+Sg+Nom
+dunne	dunne_край+N+Sg+Nom
+dunne	dunne_вид+N+Sg+Nom
+dunne	dunne_место+N+Sg+Nom
+dunne	dunne_страна+N+Sg+Nom
+dunne	dunne_земля+N+Sg+Nom
+dunne	dunnē_территория+N+Sg+Nom
+
+elekes	elekes_вначале+Adv
+elekes	elekes_впервые+Adv
+elekes	elekes_сперва+Adv
+
+owd'angahin	+?
+
+n'angn'a	n'angn'a_небо+N+Sg+Nom
+n'angn'a	n'angn'a_месиво+N+Sg+Nom
+n'angn'a	n'angn'a_грязь+N+Sg+Nom
+
+elekes	elekes_вначале+Adv
+elekes	elekes_впервые+Adv
+elekes	elekes_сперва+Adv
+
+ilar	+?
+
+man	mān_стая+N+Sg+Nom
+
+s'erukard'in	+?
+
+n'angn'a	n'angn'a_небо+N+Sg+Nom
+n'angn'a	n'angn'a_месиво+N+Sg+Nom
+n'angn'a	n'angn'a_грязь+N+Sg+Nom
+
+owd'angahin	+?
+
+bira	bira_река+N+Sg+Nom
+
+mun	mū_вода+N+Sg+Nom+Ps3Sg
+
+elekes	elekes_вначале+Adv
+elekes	elekes_впервые+Adv
+elekes	elekes_сперва+Adv
+
+dunneduk	dunne_родина+N+Sg+Abl
+dunneduk	dunne_край+N+Sg+Abl
+dunneduk	dunne_вид+N+Sg+Abl
+dunneduk	dunne_место+N+Sg+Abl
+dunneduk	dunne_страна+N+Sg+Abl
+dunneduk	dunne_земля+N+Sg+Abl
+dunneduk	dunnē_территория+N+Sg+Abl
+
+juktukenngechin	jūktu_ручей+Atten+Eqt+N+Sg+Nom
+juktukenngechin	jūktū_поток+Atten+Eqt+N+Sg+Nom
+juktukenngechin	jūktū_источник+Atten+Eqt+N+Sg+Nom
+juktukenngechin	jūktukēn_ручеёк+Eqt+N+Sg+Nom
+
+jud'engehin	+?
+
+dulin	dulin_половина+N+Sg+Nom
+dulin	dulin_середина+N+Sg+Nom
+
+dunne	dunne_родина+N+Sg+Nom
+dunne	dunne_край+N+Sg+Nom
+dunne	dunne_вид+N+Sg+Nom
+dunne	dunne_место+N+Sg+Nom
+dunne	dunne_страна+N+Sg+Nom
+dunne	dunne_земля+N+Sg+Nom
+dunne	dunnē_территория+N+Sg+Nom
+
+dulkakindun	dulkākin_центр+N+Sg+Datloc+Ps3Sg
+
+umun	umūn_один+N+Sg+Nom
+umun	umūn_единица+N+Sg+Nom
+
+jene	jen_разбить+V+Nfut+3Pl
+jene	jen_разбить+V+Pneg
+jene	jen_перерезать+V+Nfut+3Pl
+jene	jen_перерезать+V+Pneg
+jene	jen_пересечь+V+Nfut+3Pl
+jene	jen_пересечь+V+Pneg
+jene	jene_река+N+Sg+Nom
+jene	jene_исток+N+Sg+Nom
+
+hulidun	huli_край+N+Sg+Datloc+Ps3Sg
+hulidun	huli_побережье+N+Sg+Datloc+Ps3Sg
+hulidun	huli_борт+N+Sg+Datloc+Ps3Sg
+hulidun	huli_берег+N+Sg+Datloc+Ps3Sg
+
+kotor	koton_хлев+N+Pl+Nom
+
+ngeku	+?
+
+ojodun	ojo_высота+N+Sg+Datloc+Ps3Sg
+ojodun	ojo_верхушка+N+Sg+Datloc+Ps3Sg
+ojodun	ojo_макушка+N+Sg+Datloc+Ps3Sg
+ojodun	ojo_поверхность+N+Sg+Datloc+Ps3Sg
+
+utek	+?
+
+uteje	+?
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+tadu	tadū_там+Adv
+
+bid'ene	bi_водиться+V+Ipfv+Cvsim+Sg
+bid'ene	bi_выжить+V+Ipfv+Cvsim+Sg
+bid'ene	bi_попадаться+V+Ipfv+Cvsim+Sg
+bid'ene	bi_пробить+V+Ipfv+Cvsim+Sg
+bid'ene	bi_прожить+V+Ipfv+Cvsim+Sg
+bid'ene	bi_быть+V+Ipfv+Cvsim+Sg
+bid'ene	bi_иметься+V+Ipfv+Cvsim+Sg
+bid'ene	bi_состояться+V+Ipfv+Cvsim+Sg
+bid'ene	bi_случаться+V+Ipfv+Cvsim+Sg
+
+mata	mata_богатырь+N+Sg+Nom
+mata	mata_сосед+N+Sg+Nom
+mata	mata_гость+N+Sg+Nom
+mata	mata_земляк+N+Sg+Nom
+
+beje	be_койка+N+Sg+Accin
+beje	be_кровать+N+Sg+Accin
+beje	be_пробка+N+Sg+Accin
+beje	beje_корпус+N+Sg+Nom
+beje	beje_муж+N+Sg+Nom
+beje	beje_мужчина+N+Sg+Nom
+beje	beje_плоть+N+Sg+Nom
+beje	beje_тело+N+Sg+Nom
+beje	beje_самец+N+Sg+Nom
+beje	beje_человек+N+Sg+Nom
+
+baldid'aran	baldi_отелиться+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_уродиться+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_нарасти+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_распуститься+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_расплодиться+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_расцвести+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_рождаться+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_взойти+V+Ipfv+Nfut+3Sg
+baldid'aran	baldī_породить+V+Ipfv+Nfut+3Sg
+
+nungandun	nungan_он+N+Sg+Datloc+Ps3Sg
+
+umun	umūn_один+N+Sg+Nom
+umun	umūn_единица+N+Sg+Nom
+
+engneken	engnekēn_теленок+N+Sg+Nom
+
+oron	ōn_акт+N+Pl+Accin+Ps3Sg
+oron	ōn_образование+N+Pl+Accin+Ps3Sg
+oron	ōn_случай+N+Pl+Accin+Ps3Sg
+oron	ōn_действие+N+Pl+Accin+Ps3Sg
+oron	oron_олень+N+Sg+Nom
+
+achin	achi_предок+N+Sg+Nom+Ps3Sg
+achin	āchin_отсутствие+N+Sg+Nom
+
+umun	umūn_один+N+Sg+Nom
+umun	umūn_единица+N+Sg+Nom
+
+nina	nina_собака+N+Sg+Nom
+
+achin	achi_предок+N+Sg+Nom+Ps3Sg
+achin	āchin_отсутствие+N+Sg+Nom
+
+tar	+?
+
+beje	be_койка+N+Sg+Accin
+beje	be_кровать+N+Sg+Accin
+beje	be_пробка+N+Sg+Accin
+beje	beje_корпус+N+Sg+Nom
+beje	beje_муж+N+Sg+Nom
+beje	beje_мужчина+N+Sg+Nom
+beje	beje_плоть+N+Sg+Nom
+beje	beje_тело+N+Sg+Nom
+beje	beje_самец+N+Sg+Nom
+beje	beje_человек+N+Sg+Nom
+
+umun	umūn_один+N+Sg+Nom
+umun	umūn_единица+N+Sg+Nom
+
+ahi	ahī_самка+N+Sg+Nom
+
+nekuchi	+?
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+tar	+?
+
+bid'enel	bi_водиться+V+Ipfv+Cvsim+Pl
+bid'enel	bi_выжить+V+Ipfv+Cvsim+Pl
+bid'enel	bi_попадаться+V+Ipfv+Cvsim+Pl
+bid'enel	bi_пробить+V+Ipfv+Cvsim+Pl
+bid'enel	bi_прожить+V+Ipfv+Cvsim+Pl
+bid'enel	bi_быть+V+Ipfv+Cvsim+Pl
+bid'enel	bi_иметься+V+Ipfv+Cvsim+Pl
+bid'enel	bi_состояться+V+Ipfv+Cvsim+Pl
+bid'enel	bi_случаться+V+Ipfv+Cvsim+Pl
+
+nungartin	nungan_он+N+Pl+Nom+Ps3Pl
+
+d'ergejewer	+?
+
+bejngewa	+?
+
+wachal	+?
+
+bichetin	bi_водиться+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_водиться+V+Pst+3Pl
+bichetin	bi_выжить+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_выжить+V+Pst+3Pl
+bichetin	bi_попадаться+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_попадаться+V+Pst+3Pl
+bichetin	bi_пробить+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_пробить+V+Pst+3Pl
+bichetin	bi_прожить+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_прожить+V+Pst+3Pl
+bichetin	bi_быть+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_быть+V+Pst+3Pl
+bichetin	bi_иметься+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_иметься+V+Pst+3Pl
+bichetin	bi_состояться+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_состояться+V+Pst+3Pl
+bichetin	bi_случаться+V+Pant+Sg+Nom+Ps3Pl
+bichetin	bi_случаться+V+Pst+3Pl
+bichetin	biche_бывший+Adj+Sg+Nom+Ps3Pl
+
+tar	+?
+
+beje	be_койка+N+Sg+Accin
+beje	be_кровать+N+Sg+Accin
+beje	be_пробка+N+Sg+Accin
+beje	beje_корпус+N+Sg+Nom
+beje	beje_муж+N+Sg+Nom
+beje	beje_мужчина+N+Sg+Nom
+beje	beje_плоть+N+Sg+Nom
+beje	beje_тело+N+Sg+Nom
+beje	beje_самец+N+Sg+Nom
+beje	beje_человек+N+Sg+Nom
+
+berin	bē_провеять+V+Psim+Sg+Nom+Ps3Sg
+berin	bē_просеять+V+Psim+Sg+Nom+Ps3Sg
+berin	ber_ружьё+N+Sg+Nom+Ps3Sg
+berin	ber_радуга+N+Sg+Nom+Ps3Sg
+berin	ber_лук+N+Sg+Nom+Ps3Sg
+
+biche	bi_водиться+V+Pant+Sg+Nom
+biche	bi_выжить+V+Pant+Sg+Nom
+biche	bi_попадаться+V+Pant+Sg+Nom
+biche	bi_пробить+V+Pant+Sg+Nom
+biche	bi_прожить+V+Pant+Sg+Nom
+biche	bi_быть+V+Pant+Sg+Nom
+biche	bi_иметься+V+Pant+Sg+Nom
+biche	bi_состояться+V+Pant+Sg+Nom
+biche	bi_случаться+V+Pant+Sg+Nom
+biche	biche_бывший+Adj+Sg+Nom
+
+irekte	irēkte_лиственница+N+Sg+Nom
+irekte	irēkte_дерево+N+Sg+Nom
+
+akrewan	+?
+
+onan	ō_застроить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_застроить+V+Evid+3Sg
+onan	ō_настать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_настать+V+Evid+3Sg
+onan	ō_наделать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_наделать+V+Evid+3Sg
+onan	ō_оказаться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_оказаться+V+Evid+3Sg
+onan	ō_определить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_определить+V+Evid+3Sg
+onan	ō_образовать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_образовать+V+Evid+3Sg
+onan	ō_образоваться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_образоваться+V+Evid+3Sg
+onan	ō_осуществить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_осуществить+V+Evid+3Sg
+onan	ō_основать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_основать+V+Evid+3Sg
+onan	ō_очутиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_очутиться+V+Evid+3Sg
+onan	ō_разработать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_разработать+V+Evid+3Sg
+onan	ō_решить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_решить+V+Evid+3Sg
+onan	ō_водрузить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_водрузить+V+Evid+3Sg
+onan	ō_возникнуть+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_возникнуть+V+Evid+3Sg
+onan	ō_воздвигнуть+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_воздвигнуть+V+Evid+3Sg
+onan	ō_ввести+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_ввести+V+Evid+3Sg
+onan	ō_выработать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_выработать+V+Evid+3Sg
+onan	ō_выйти+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_выйти+V+Evid+3Sg
+onan	ō_выстроить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_выстроить+V+Evid+3Sg
+onan	ō_выделывать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_выделывать+V+Evid+3Sg
+onan	ō_получиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_получиться+V+Evid+3Sg
+onan	ō_появиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_появиться+V+Evid+3Sg
+onan	ō_поступить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_поступить+V+Evid+3Sg
+onan	ō_поставить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_поставить+V+Evid+3Sg
+onan	ō_построить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_построить+V+Evid+3Sg
+onan	ō_провести+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_провести+V+Evid+3Sg
+onan	ō_происходить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_происходить+V+Evid+3Sg
+onan	ō_произойти+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_произойти+V+Evid+3Sg
+onan	ō_производить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_производить+V+Evid+3Sg
+onan	ō_произвести+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_произвести+V+Evid+3Sg
+onan	ō_проделать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_проделать+V+Evid+3Sg
+onan	ō_приключиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_приключиться+V+Evid+3Sg
+onan	ō_причинить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_причинить+V+Evid+3Sg
+onan	ō_исполнить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_исполнить+V+Evid+3Sg
+onan	ō_исполниться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_исполниться+V+Evid+3Sg
+onan	ō_изготовить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_изготовить+V+Evid+3Sg
+onan	ō_соорудить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_соорудить+V+Evid+3Sg
+onan	ō_совершить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_совершить+V+Evid+3Sg
+onan	ō_составить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_составить+V+Evid+3Sg
+onan	ō_создать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_создать+V+Evid+3Sg
+onan	ō_случаться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_случаться+V+Evid+3Sg
+onan	ō_случиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_случиться+V+Evid+3Sg
+onan	ō_смастерить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_смастерить+V+Evid+3Sg
+onan	ō_стать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_стать+V+Evid+3Sg
+onan	ō_сделать+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_сделать+V+Evid+3Sg
+onan	ō_сделаться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_сделаться+V+Evid+3Sg
+onan	ō_деваться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_деваться+V+Evid+3Sg
+onan	ō_деться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_деться+V+Evid+3Sg
+onan	ō_установиться+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_установиться+V+Evid+3Sg
+onan	ō_устроить+V+Ppf+Sg+Nom+Ps3Sg
+onan	ō_устроить+V+Evid+3Sg
+onan	ona_результат+N+Sg+Nom+Ps3Sg
+onan	ōna_конец+N+Sg+Nom+Ps3Sg
+onan	ōna_произведение+N+Sg+Nom+Ps3Sg
+onan	ōna_продукция+N+Sg+Nom+Ps3Sg
+onan	ōna_инцидент+N+Sg+Nom+Ps3Sg
+onan	ōna_итог+N+Sg+Nom+Ps3Sg
+onan	ōna_достижение+N+Sg+Nom+Ps3Sg
+
+tar	+?
+
+n'an	n'an_заново+Adv
+n'an	n'ān_опять+Adv
+n'an	n'ān_снова+Adv
+
+n'urin	n'ur_стрела+N+Sg+Nom+Ps3Sg
+n'urin	n'urin_ёмкий+Adj+Sg+Nom
+n'urin	n'urin_размах+N+Sg+Nom
+
+bichen	bi_водиться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_водиться+V+Pst+3Sg
+bichen	bi_выжить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_выжить+V+Pst+3Sg
+bichen	bi_попадаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_попадаться+V+Pst+3Sg
+bichen	bi_пробить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_пробить+V+Pst+3Sg
+bichen	bi_прожить+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_прожить+V+Pst+3Sg
+bichen	bi_быть+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_быть+V+Pst+3Sg
+bichen	bi_иметься+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_иметься+V+Pst+3Sg
+bichen	bi_состояться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_состояться+V+Pst+3Sg
+bichen	bi_случаться+V+Pant+Sg+Nom+Ps3Sg
+bichen	bi_случаться+V+Pst+3Sg
+bichen	biche_бывший+Adj+Sg+Nom+Ps3Sg
+
