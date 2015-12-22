@@ -42,19 +42,48 @@ class EvenkiMorphProcessor(object):
 
     def callProcessor(self, newFileName):
         '''calls foma on the file and grabs the output stream'''
-        [stdout,stderr]=subprocess.Popen("type "+newFileName+
-                                "|"+self.FLOOKUP_FILENAME+" "+ self.EVENKI_COMPILED_FILENAME,
+        command = 'type "'+newFileName+\
+                                '"|'+self.FLOOKUP_FILENAME+" "+ self.EVENKI_COMPILED_FILENAME
+        
+        
+        [stdout,stderr]=subprocess.Popen(command,
             stdout=subprocess.PIPE, shell=True).communicate()
         if stderr:
             raise Exception(stderr)
         return stdout
     
+    
+    def callProcessorListOfWords(self, wordList):
+        
+        normalizedWords = [self.normalizeText(word) for word in wordList]
+ 
+ 
+        result = []
+        for word in normalizedWords:
+            if len(word)>0:
+                command = "echo "+word+\
+                                        "|"+self.FLOOKUP_FILENAME+" "+ self.EVENKI_COMPILED_FILENAME
+                                        
+                
+            
+                [stdout,stderr]=subprocess.Popen(command,
+                    stdout=subprocess.PIPE, shell=True).communicate()
+                if stderr:
+                    raise Exception(stderr)
+                result.append(stdout)
+        return result
+    
     def callProcessorText(self, text):
         res = dict()
         for word in text:
             if len(word)>0:
-                [stdout,stderr]=subprocess.Popen("echo "+word+
-                                        "|"+self.FLOOKUP_FILENAME+" "+ self.EVENKI_COMPILED_FILENAME,
+                command = "echo "+word+\
+                                        "|"+self.FLOOKUP_FILENAME+" "+ self.EVENKI_COMPILED_FILENAME
+                          
+                          
+                
+            
+                [stdout,stderr]=subprocess.Popen(command,
                     stdout=subprocess.PIPE, shell=True).communicate()
                 if stderr:
                     raise Exception(stderr)
@@ -111,9 +140,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-"""processor=EvenkiMorphProcessor()
-normalizedFile=processor.getNormalizedFile("D:\\SibLang\\Evenki\\evenkiTexts\\tests\\evenkiTests\\20120308_kodakchon_novowels.txt")
-        
-processor.processFileWriteResult(normalizedFile)"""
 
 
