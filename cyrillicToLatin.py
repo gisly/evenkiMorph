@@ -79,7 +79,92 @@ lower_case_letters = {
     u'ь': u'',
     u'э': u'e',
     u'ю': u'ju',
-    u'я': u'ja'
+    u'я': u'ja',
+    #u'\u0304':'',
+    #u'\u2013':'',
+    u'\u0301':'',
+    u'\u014d':'o',
+    u'ō':'o',
+    
+    u'\u012b':'i',
+    u'\u016b':'u',
+    u'ŋ':'ng',
+    u'ń':'n',
+    u'ś':'ch',
+    u'š':'s',
+    
+    u'ž':'z',
+    
+    u'ľ':'l',
+    
+    u'ď':"d'",
+    u'ť':"t'",
+    u'ə':'e',
+    u'ē':'e',
+    u'ē':'e',
+    u'ø':'',
+    u'ā':'a',
+    u'ā':'a',
+    u'γ':'g',
+    u'č':'ch',
+    u'ū':'u',
+    u'ū':'u',
+    u'ī':'i',
+    u'ī':'i',
+    u'ɒ':'o',
+    
+     u'ɨ':u'i',
+     u'ɵ':u'o',
+     u'ō':'o',
+     
+     
+     u'ǝ':'e',
+}
+
+special_symbols = {
+     u'ŋ':'ng',
+    u'ń':'n',
+    u'ś':'ch',
+    
+    u'ž':'z',
+    
+    u'ď':"d'",
+    
+    u'ť':"t'",
+    
+    u'ś':'ch',
+    u'š':'s',
+    
+    u'ľ':'l',
+    
+    u'ə':'e',
+    u'ē':'e',
+    u'ø':'',
+    u'ā':'a',
+    u'γ':'g',
+    u'č':'ch',
+    u'ū':'u',
+    u'ū':'u',
+    u'ī':'i',
+
+    u'ī':'i',
+    u'ā':'a',
+    u'ā':'a',
+    u'ē':'e',
+    u'ē':'e',
+
+    u'\u014d':'o',
+    u'ō':'o',
+    
+    u'ё':u'е',
+    
+    u'ɒ':'o',
+    u'ɨ':u'i',
+    
+    u'ɵ':u'o',
+    u'ō':'o',
+    
+    u'ǝ':'e',
 }
 
 
@@ -99,6 +184,15 @@ def cyrToIPA(s):
         s=s.replace(lower_case_letter, lower_case_letter_IPA)
 
     return s
+
+def replaceSpecialSymbols(s):
+    '''converts a string containing special symbols into an ASCII fonetic string'''
+    s = s.lower()
+    for specialSymbol, IPA in special_symbols.iteritems():
+        s=s.replace(specialSymbol, IPA)
+    return s
+
+
 def main():
     if len(sys.argv)<2:
         raise Exception('no input file name specified')
